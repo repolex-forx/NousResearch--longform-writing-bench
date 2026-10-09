@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/NousResearch/longform-writing-bench/commit/d1c625505b1cf8baf32a49c8e21a9cf93a254044",
       "git:hexsha": "d1c625505b1cf8baf32a49c8e21a9cf93a254044",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-09T16:06:13.096203+00:00"
     }
   ]
 }
