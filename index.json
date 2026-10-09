@@ -1,0 +1,11 @@
+{
+  "org": "NousResearch",
+  "repo": "longform-writing-bench",
+  "versions": [
+    {
+      "commit": "d1c625505b1cf8baf32a49c8e21a9cf93a254044",
+      "tag": "",
+      "parsed_at": "2026-10-09T16:06:13.286111+00:00"
+    }
+  ]
+}
